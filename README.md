@@ -20,7 +20,7 @@ Output
 
 ### get
 
-Retrieve clipboard content of given type to standard output
+Retrieve clipboard content of given type to standard output. Binary clipboard data is supported.
 
 	clipboard get public.rtf
 
