@@ -34,7 +34,10 @@ Output
 
 ## TODO
 
+* Windows and Linux versions
+* Electron-compatible Node.js wrapper
 * Add `set`, `add`, `remove`, `clear` commands
 * Add `copy` and `paste` commands emulating `pbcopy` and `pbpaste` behavior
 * Support input (`-i`) and output file (`-o`)
 * Allow multi-type `get` and `set` using popular archive format (zip, gzip, and/or tar)
+
