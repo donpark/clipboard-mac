@@ -10,7 +10,13 @@ Lists clipboard content types to standard output
 
 Output
 
-	["public.utf8-plain-text", "NSStringPboardType", "public.rtf", "NeXT Rich Text Format v1.0 pasteboard type", "dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74qqf1gs7pbq7wza2xtqf3gkzd3sbwu", "DVTSourceTextViewLanguagePboardType", "dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74xqr11a3nqqf1gs7pbq7wyg55ssvw1u7cuqm10c6xenv61a3k", "DVTSourceTextViewScopeLanguageContextPboardType", "dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74msra1kuwtmvkge55bsmwfk8puqy", "DVTSourceTextViewIsAtBOLPboardType", "public.utf16-external-plain-text", "CorePasteboardFlavorType 0x75743136", "dyn.ah62d4rv4gk81n65yru", "CorePasteboardFlavorType 0x7573746C", "com.apple.traditional-mac-plain-text", "CorePasteboardFlavorType 0x54455854", "dyn.ah62d4rv4gk81g7d3ru", "CorePasteboardFlavorType 0x7374796C"
+	["public.utf8-plain-text", "NSStringPboardType", "public.rtf", "NeXT Rich Text Format v1.0 pasteboard type",
+	"dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74qqf1gs7pbq7wza2xtqf3gkzd3sbwu", "DVTSourceTextViewLanguagePboardType",
+	"dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74xqr11a3nqqf1gs7pbq7wyg55ssvw1u7cuqm10c6xenv61a3k",
+	"DVTSourceTextViewScopeLanguageContextPboardType", "dyn.ah62d4rv4gu8ykzwynr11n6xdqzngn8dyn3y0n74msra1kuwtmvkge55bsmwfk8puqy",
+	"DVTSourceTextViewIsAtBOLPboardType", "public.utf16-external-plain-text", "CorePasteboardFlavorType 0x75743136",
+	"dyn.ah62d4rv4gk81n65yru", "CorePasteboardFlavorType 0x7573746C", "com.apple.traditional-mac-plain-text",
+	"CorePasteboardFlavorType 0x54455854", "dyn.ah62d4rv4gk81g7d3ru", "CorePasteboardFlavorType 0x7374796C"
 
 ### get
 
