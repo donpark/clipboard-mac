@@ -30,7 +30,7 @@
 		F610E5921E72E1C0002846A3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = "~/dev/avenue/app";
+			dstPath = "~/dev/avenue/app/bin/darwin-x64";
 			dstSubfolderSpec = 0;
 			files = (
 				F610E5931E72E1E7002846A3 /* clipboard in CopyFiles */,
