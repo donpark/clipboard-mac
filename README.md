@@ -45,8 +45,8 @@ Retrieve clipboard content of given type to standard output. Binary clipboard da
 ## TODO
 
 * Windows and Linux versions
-* Electron-compatible Node.js wrapper
-* Support watch mode to detect and send change event (via Server-Sent Event maybe).
+* Electron-compatible Node.js wrapper (done but not open sourced yet)
+* Support watch mode to detect and send change event (via SSE or WebSockets).
 * Protect passwords
 * Add `set`, `add`, `remove`, `clear` commands
 * Add `copy` and `paste` commands emulating `pbcopy` and `pbpaste` behavior
